@@ -13,7 +13,7 @@ You can begin by testing your configuration with:
 
 `python demo_cli.py`
 
-The final output and the sample videos along with the pre-trained weights can be found [here]((https://drive.google.com/drive/u/0/folders/1zQgUy52uxaWHPvQimzjLSkvdrV0ydPNe)).
+The final output and the sample videos along with the pre-trained weights can be found [here](https://drive.google.com/drive/u/0/folders/1zQgUy52uxaWHPvQimzjLSkvdrV0ydPNe).
 
 
 
