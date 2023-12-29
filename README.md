@@ -6,14 +6,14 @@
 3. Install the remaining requirements with `pip install -r requirements.txt`
 
 ### 2. Download Pretrained Models
-You can manually download the pre-trained models from [here](https://drive.google.com/drive/u/0/folders/1JB2GhDQge9a6KdVvBl1ELpL-UBRJMYRo).
+You can manually download the pre-trained models from [here](https://drive.google.com/drive/u/0/folders/1zQgUy52uxaWHPvQimzjLSkvdrV0ydPNe).
 
 ### 3. Test Configuration
 You can begin by testing your configuration with:
 
 `python demo_cli.py`
 
-The final output and the sample videos along with the pre-trained weights can be found [here](https://drive.google.com/drive/u/0/folders/1zQgUy52uxaWHPvQimzjLSkvdrV0ydPNe).
+The final output and the sample videos along with the pre-trained weights can be found [here](https://drive.google.com/drive/folders/1zQgUy52uxaWHPvQimzjLSkvdrV0ydPNe?usp=sharing).
 
 
 
