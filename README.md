@@ -6,7 +6,7 @@
 3. Install the remaining requirements with `pip install -r requirements.txt`
 
 ### 2. Download Pretrained Models
-You can manually download the pre-trained models from [here]((https://drive.google.com/drive/u/0/folders/1JB2GhDQge9a6KdVvBl1ELpL-UBRJMYRo)).
+You can manually download the pre-trained models from [here](https://drive.google.com/drive/u/0/folders/1JB2GhDQge9a6KdVvBl1ELpL-UBRJMYRo).
 
 ### 3. Test Configuration
 You can begin by testing your configuration with:
